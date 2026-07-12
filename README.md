@@ -7,6 +7,7 @@ Collection of my LeetCode solutions in Java.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
