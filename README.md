@@ -8,6 +8,7 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0070-climbing-stairs](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
