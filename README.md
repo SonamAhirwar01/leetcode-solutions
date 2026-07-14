@@ -13,6 +13,7 @@ Collection of my LeetCode solutions in Java.
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -41,4 +42,5 @@ Collection of my LeetCode solutions in Java.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
