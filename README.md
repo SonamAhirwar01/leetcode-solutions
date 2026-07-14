@@ -43,4 +43,16 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0231-power-of-two](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
