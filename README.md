@@ -49,6 +49,7 @@ Collection of my LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ Collection of my LeetCode solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
