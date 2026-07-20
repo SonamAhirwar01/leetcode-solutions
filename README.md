@@ -35,6 +35,7 @@ Collection of my LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -67,4 +68,8 @@ Collection of my LeetCode solutions in Java.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
