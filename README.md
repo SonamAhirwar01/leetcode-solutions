@@ -60,6 +60,7 @@ Collection of my LeetCode solutions in Java.
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +82,9 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
