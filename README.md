@@ -9,6 +9,7 @@ Collection of my LeetCode solutions in Java.
 | [0007-reverse-integer](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -56,6 +57,7 @@ Collection of my LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +85,7 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
