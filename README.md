@@ -59,6 +59,7 @@ Collection of my LeetCode solutions in Java.
 | [0027-remove-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -86,6 +87,7 @@ Collection of my LeetCode solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
