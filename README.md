@@ -65,6 +65,7 @@ Collection of my LeetCode solutions in Java.
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
