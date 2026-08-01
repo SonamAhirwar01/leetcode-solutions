@@ -42,6 +42,7 @@ Collection of my LeetCode solutions in Java.
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of my LeetCode solutions in Java.
 | [1929-concatenation-of-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
