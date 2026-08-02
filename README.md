@@ -19,6 +19,7 @@ Collection of my LeetCode solutions in Java.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of my LeetCode solutions in Java.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of my LeetCode solutions in Java.
 | [0242-valid-anagram](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
