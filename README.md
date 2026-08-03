@@ -54,6 +54,7 @@ Collection of my LeetCode solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -63,6 +64,7 @@ Collection of my LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
