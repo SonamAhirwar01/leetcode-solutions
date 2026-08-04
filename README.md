@@ -41,6 +41,7 @@ Collection of my LeetCode solutions in Java.
 | [0242-valid-anagram](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
