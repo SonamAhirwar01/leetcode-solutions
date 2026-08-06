@@ -20,6 +20,7 @@ Collection of my LeetCode solutions in Java.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
