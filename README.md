@@ -75,6 +75,7 @@ Collection of my LeetCode solutions in Java.
 | [0485-max-consecutive-ones](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -114,4 +115,8 @@ Collection of my LeetCode solutions in Java.
 | ------- |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
