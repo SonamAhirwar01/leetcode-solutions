@@ -47,6 +47,7 @@ Collection of my LeetCode solutions in Java.
 | [0709-to-lower-case](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ Collection of my LeetCode solutions in Java.
 | [1920-build-array-from-permutation](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
