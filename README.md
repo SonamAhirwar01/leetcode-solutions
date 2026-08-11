@@ -19,6 +19,7 @@ Collection of my LeetCode solutions in Java.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -119,4 +120,8 @@ Collection of my LeetCode solutions in Java.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
