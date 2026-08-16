@@ -77,6 +77,7 @@ Collection of my LeetCode solutions in Java.
 | [0283-move-zeroes](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -95,6 +96,7 @@ Collection of my LeetCode solutions in Java.
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of my LeetCode solutions in Java.
 | [0217-contains-duplicate](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
@@ -142,4 +145,8 @@ Collection of my LeetCode solutions in Java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
