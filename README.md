@@ -78,6 +78,7 @@ Collection of my LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SonamAhirwar01/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
